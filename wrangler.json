@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cscb",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dcbc5f99-76c4-4ac4-a031-5d9d56c0fc5a",
+			"database_name": "cscb_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
